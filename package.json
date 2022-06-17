@@ -1,0 +1,65 @@
+{
+  "name": "discountsale",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@walletconnect/web3-provider": "^1.7.1",
+    "axios": "^0.26.0",
+    "chart.js": "^3.7.0",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.2",
+    "plyr-react": "^3.2.1",
+    "public-ip": "^5.0.0",
+    "react": "^17.0.2",
+    "react-audio-player": "^0.17.0",
+    "react-chartjs-2": "^4.0.1",
+    "react-countdown": "^2.3.2",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-datepicker": "^4.5.0",
+    "react-dom": "^17.0.2",
+    "react-dropdown": "^1.9.2",
+    "react-loader-spinner": "^6.0.0-0",
+    "react-player": "^2.9.0",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "react-scroll-section": "^3.1.0",
+    "react-scrollbar": "^0.5.6",
+    "react-select": "^5.2.1",
+    "react-slick": "^0.28.1",
+    "react-switch": "^6.0.0",
+    "react-toastify": "^8.2.0",
+    "react-tooltip": "^4.2.21",
+    "react-usestateref": "^1.0.8",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.2",
+    "web3": "^1.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
